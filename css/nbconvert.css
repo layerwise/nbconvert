@@ -1,18 +1,13 @@
 
 /************** NbConvert CSS ************************/
-
-/* my changes */
-div.notebook {
-    border: 1px solid #ccc;
-    box-shadow: 7px -6px 9px 0px #8888883b;
-}
-
 div.notebook {
     position: relative;
     font-size: 0.75em;
-    border: 3px dashed;
+    /* my changes */
+    border: 1px solid #ccc;
+    box-shadow: 7px -6px 9px 0px #8888883b;
     padding: 10px;
-    margin-bottom:15px
+    margin-bottom:15px;
 }
 
 div.notebook label.github-last-update {
