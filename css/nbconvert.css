@@ -1,6 +1,11 @@
 
 /************** NbConvert CSS ************************/
 
+/* my changes */
+div.notebook {
+    border: 1px solid #ccc;
+    box-shadow: 7px -6px 9px 0px #8888883b;
+}
 
 div.notebook {
     position: relative;
